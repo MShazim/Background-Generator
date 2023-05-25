@@ -4,6 +4,8 @@ This is a Simple Background Gradient Generator.
 
 Try some Amazing Colour Gradients for your next background :star2:
 
+You can try out the Background Gradient Generator by visiting the [demo page](https://example.com/demo) and experiment with different gradient combinations to see the results in real time.
+
 ## Features
 
 - Generate custom background gradients.
@@ -12,22 +14,18 @@ Try some Amazing Colour Gradients for your next background :star2:
 - Copy generated CSS code with a single click.
 - Lightweight and easy to use.
 
-## Demo
-
-You can try out the Background Gradient Generator by visiting the [demo page](https://example.com/demo) and experiment with different gradient combinations to see the results in real time.
-
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/background-gradient-generator.git
+   git clone https://github.com/your-username/Background-Generator.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd background-gradient-generator
+   cd Background-Generator
    ```
 
 3. Open the `index.html` file in your preferred web browser.
