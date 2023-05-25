@@ -7,6 +7,7 @@ You can try out the Background Gradient Generator by visiting the [Background Ge
 
 ## Features
 
+- Generate random background gradients.
 - Generate custom background gradients.
 - Interactive interface with real-time preview.
 - Select gradient colors using color pickers or enter specific color codes.
