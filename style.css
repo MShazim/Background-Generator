@@ -15,6 +15,7 @@ h1{
     text-transform: uppercase;
     letter-spacing: .5em;
     width: 100%;
+    cursor: none;
 }
 
 h3{
