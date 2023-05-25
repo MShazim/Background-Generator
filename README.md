@@ -1,10 +1,9 @@
 # Background Generator
 
 This is a Simple Background Gradient Generator. 
-
 Try some Amazing Colour Gradients for your next background :star2:
 
-You can try out the Background Gradient Generator by visiting the [demo page](https://example.com/demo) and experiment with different gradient combinations to see the results in real time.
+You can try out the Background Gradient Generator by visiting the [Background Generator](https://mshazim.github.io/Background-Generator/) and experiment with different gradient combinations to see the results in real time.
 
 ## Features
 
@@ -19,7 +18,7 @@ You can try out the Background Gradient Generator by visiting the [demo page](ht
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Background-Generator.git
+   git clone https://github.com/MShazim/Background-Generator.git
    ```
 
 2. Navigate to the project directory:
@@ -38,13 +37,12 @@ That's it! You're ready to start using the Background Gradient Generator.
 
 2. Use the color pickers or enter specific color codes to select the desired gradient colors.
 
-3. Adjust the gradient direction and type to achieve the desired effect.
+3. Copy the generated CSS code by clicking the "Copy to Clipboard" button.
 
-4. Copy the generated CSS code by clicking the "Copy CSS" button.
+4. Paste the CSS code into your project to apply the gradient background.
 
-5. Paste the CSS code into your project to apply the gradient background.
+5. Customize the code further, if needed, by modifying the provided CSS classes and attributes.
 
-6. Customize the code further, if needed, by modifying the provided CSS classes and attributes.
 
 ## Contributing
 
@@ -75,3 +73,7 @@ Contributions are welcome! If you have any ideas or improvements to suggest, ple
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify this project for your own purposes.
+
+## Credits
+
+Learning front-end technologies from the ZTM Web Developer 2023  Course by Andrie Neogoie
